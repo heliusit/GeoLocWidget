@@ -1,0 +1,15 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Team: Mauro Stepanoski, Mariano Pino, Sebastian Sanchez, German Unzue
+  Site: http://www.heliusit.net
+  Twitter: @heliusit
+  Location: Tandil, Buenos Aires Argentina
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
+

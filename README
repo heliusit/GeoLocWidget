@@ -1,0 +1,9 @@
+Geolocation Widget (GeoLocWidget) is a jQuery plugin.
+It uses autocomplete, reverse geocoding, and Google Maps.
+GeoLocWidget was developed to resolve licensing issues with Google Maps (like show map when use it), and it helps to resolve request limit issues through the use of several geo providers like MapQuest, OpenStreetMap, and Google Maps.
+It was written by Mauro Stepanoski with help from Helius IT Team.
+
+Copyright (c) 2011 Mauro Stepanoski, Mariano Pino, Sebastian Sanchez, German Unzue.
+Dual licensed under the MIT (MIT-LICENSE.txt)
+and GPL (GPL-LICENSE.txt) licenses.
+
